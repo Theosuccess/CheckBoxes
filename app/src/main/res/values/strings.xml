@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CheckBoxes</string>
+    <string name="chocolate_syrup">Chocolate Syrup</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="crushed_nuts">Crushed nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio_cookie_crumbles">Orio Cookie Crumbles</string>
+    <string name="show_toast">Show toast</string>
+
+    <string name="chocolate_order_message">You have checked Chocolate syrup.</string>
+    <string name="springles_order_message">You have checked Springles.</string>
+    <string name="nuts_order_message">You have checked Chrushed Nuts.</string>
+    <string name="cherry_order_message">You have checked Chocolate Cherries.</string>
+    <string name="orio_order_message">You have checked Orio Cookie Crumbles.</string>
+
+</resources>
